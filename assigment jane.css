@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    pedding:0;
+    box-sizing: border-box;
+}
+#inner{
+    height: 300px;
+    width: 100%;
+    background-image: url(girl\ with\ camera.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+     
+    
+}
+
+#border-text{
+   
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+    padding: 50px;
+    letter-spacing: 3px;
+
+}
+
+
+#nav_bar {
+
+    height: 80px;
+    width: 100%;
+    background-color: rgb(223, 210, 210);
+    display: flex;
+   
+    justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+     margin-top: 40px;
+
+    
+    
+
+}
+#inner3 {
+    background-image: url(ocean1.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 800px;
+    margin-top: 30px;
+    margin: auto;
+}
+
+
+    #inner4 {
+        background-image: url(ocean2.avif);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 600px;
+        width: 600px;
+        margin-top: 30px;
+        margin: auto;
+        
+}
+
+    #inner5 {
+        background-image: url(ocean3.avif);
+        background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 600px;
+     width: 600px;
+     margin-top: 40px ;
+     margin: auto;
+     
+    }
+
+    
+   
